@@ -1,5 +1,5 @@
 # Text_format
-This file is about the advanced text formatting
+This file is about the document Structure
 
-Below is the file link for the advanced text formatting concept.
+Below is the file link for the document Structure concept.
 https://jahnavi-9.github.io/Document_Structure/index.html
