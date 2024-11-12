@@ -1,4 +1,4 @@
-# Text_format
+# Document Structure
 This file is about the document Structure
 
 Below is the file link for the document Structure concept.
